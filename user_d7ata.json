@@ -1,0 +1,26 @@
+{
+    "6674118268": {
+        "templates": {},
+        "known_chats": {},
+        "broadcasting": {
+            "active": false,
+            "step": "groups",
+            "templates": [
+                {
+                    "text": "كس امككك"
+                },
+                {
+                    "text": "كس امك"
+                },
+                {
+                    "text": "خلص"
+                }
+            ],
+            "interval": 30,
+            "groups": [],
+            "last_msg_id": [
+                55196
+            ]
+        }
+    }
+}
